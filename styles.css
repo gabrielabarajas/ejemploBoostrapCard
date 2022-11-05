@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.excerciseTitle{
+    padding: 2rem;
+}
+.sponsorBox{
+    display: flex;
+    flex-direction: row;
+}
+.ratingBox{
+ display: flex;
+ flex-direction: row;
+}
+.yellStar{
+    color:#efa810;
+}
+.priceBox{
+    display: flex;
+    flex-direction: row;
+}
+.priceNumber{
+    font-size: xx-large;
+}
+.delDate{
+    font-weight: bolder;
+}
